@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenboorada
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning react and angular
-- 💞️ I’m looking to collaborate for employement
+- 💞️ I’m looking to collaborate for work at any organization
 - 📫 How to reach me you can contact me through mail : booradapraveen@gmail.com
 
 <!---
